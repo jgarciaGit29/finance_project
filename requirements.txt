@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+matplotlib
+scikit-learn
+jupyter
+cot_reports
+MetaTrader
+
